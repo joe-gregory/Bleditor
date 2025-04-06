@@ -1,6 +1,6 @@
 ﻿namespace Bleditor
 {
-    public enum BleditorDefaultCommands
+    public enum BleditorCommands
     {
         Bold,
         Italic,
